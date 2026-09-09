@@ -42,10 +42,18 @@ dhivya@cybersec-workstation:~$ whoami --verbose
 │   ├── Role : Cybersecurity Intern / SOC Analyst
 │   ├── Focus: Threat Intelligence, Vulnerability Assessment & Incident Response
 │   └── Tech : SIEM, Wireshark, Nmap, Linux Security Hardening
-└── 💡 Meraki Knowledge Hub
-    ├── Role : Full-Stack & AI Developer Intern
-    ├── Focus: Web App Development, AI Model Integration & Workflow Automation
-    └── Tech : React, Node.js, Python, FastAPI, REST APIs
+├── 🔬 Chennai Institute of Technology
+│   ├── Role : Research & Development Intern
+│   ├── Focus: AI Security Research, Cyber Threat Modeling & Advanced Prototypes
+│   └── Tech : Python, AI/ML, Network Security, Threat Analysis
+├── 🔐 Integra Software Services (Pondicherry)
+│   ├── Role : Information & Network Security Intern (3 Months)
+│   ├── Focus: Network Infrastructure Hardening, Access Control & Security Auditing
+│   └── Tech : Network Security, Firewall Systems, Linux, Audit Protocols
+└── 📊 Mix and Match Productions
+    ├── Role : Data Analyst Intern
+    ├── Focus: Data Pipeline Processing, Trend Analytics & Business Intelligence Reporting
+    └── Tech : Python, SQL, Data Visualization, Analytical Reporting
 ```
 
 ---
@@ -96,8 +104,8 @@ dhivya@cybersec-workstation:~$ whoami --verbose
 ### 📊 Dynamic Analytics & Visuals
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhivsR1210&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Dhivya's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivsR1210&theme=tokyonight&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Dhivya's GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhivsR1210&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Dhivya's GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=DhivsR1210&theme=tokyonight&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Dhivya's GitHub Streak" width="49%"/>
 </div>
 
 <br/>
